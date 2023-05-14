@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Users\pikman\source\ZAOCHNIK\Заказ 2518564\StudentSearchEngine\crypto.h(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StudentSearchEngine.vcxproj -> D:\Users\pikman\source\ZAOCHNIK\Заказ 2518564\StudentSearchEngine\x64\Debug\StudentSearchEngine.exe
